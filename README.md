@@ -1,4 +1,4 @@
-# Umix Authentication Service
+# Authentication Service
 
 A JWT-based authentication microservice built with Go. Provides user registration, login, token refresh, profile retrieval, and logout functionality.
 
@@ -49,7 +49,7 @@ Environment variables (or `.env` file):
 
 <div dir="rtl">
 
-# سرویس احراز هویت Umix
+# سرویس احراز هویت 
 
 یک میکروسرویس احراز هویت مبتنی بر JWT که با Go ساخته شده. شامل ثبت‌نام، ورود، تمدید توکن، مشاهده پروفایل و خروج.
 
